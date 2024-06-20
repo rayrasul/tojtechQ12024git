@@ -23,5 +23,5 @@ class TestEndToEnd(BaseClass):
                 break
 
         self.driver.quit()
-
+        print("this is a newly created message for git session")
 
